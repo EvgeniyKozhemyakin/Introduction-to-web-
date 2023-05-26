@@ -1,0 +1,17 @@
+h1 {
+  color: aqua;
+}
+h2 {
+  color: blue;
+  font-size: 18px;
+  text-shadow: 1px 1px 1px rgb(52, 0, 241), 2px 2px 1px rgb(52, 0, 241);
+}
+img {
+  border-radius: 2cm;
+}
+
+.first_paragraph {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 4px;
+  word-spacing: 4px;
+}
